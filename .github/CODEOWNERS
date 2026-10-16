@@ -1,0 +1,14 @@
+# CODEOWNERS for ecfax-fedramp-marketplace
+# Owners are automatically requested for review on pull requests.
+# Docs: https://docs.github.com/articles/about-code-owners
+
+# Default owner for everything in the repo
+*       @ccsi-gov/ecfax-security
+
+# To protect a repository fully against unauthorized changes, you also
+# need to define an owner for the CODEOWNERS file itself.  The most
+# secure method is to define a CODEOWNERS file in the .github directory
+# of the repository and define the repository owner as the owner of
+# the CODEOWNERS file (/.github/CODEOWNERS @owner_username).
+
+.github/CODEOWNERS @ccsi-gov/ecfax-admins
