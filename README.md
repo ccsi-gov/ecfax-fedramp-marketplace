@@ -38,3 +38,24 @@ Unlike hybrid infrastructure (IaaS) middleware or legacy on-premise servers that
 
 ECFax<sup>®</sup> was developed specifically for the cloud. Government agencies benefit from rapid scaling, efficiency, speed, and reduced total cost of ownership.
 
+### Vendor Contacts
+**SALES**
+ecfax@efax.com 
+
+**SECURITY**
+ecfaxsecurity@efax.com
+
+**PRODUCT WEBSITE**
+https://www.efax.com/products/ecfax
+
+### Business Categories:
+- Communication
+- Health & Wellness 
+- Data Management 
+- Cybersecurity & Risk Mgmt 
+- Collaboration 
+- Operations Management 
+- Legal & Policy 
+- Law Enforcement 
+- Customer Service 
+- Contact Center
